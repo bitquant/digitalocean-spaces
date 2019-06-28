@@ -1,0 +1,26 @@
+{
+  "name": "digitalocean-spaces",
+  "version": "0.0.1",
+  "description": "Read and write objects to DigitalOcean Spaces using fetch()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitquant/digitalocean-spaces.git"
+  },
+  "keywords": [
+    "digitalocean",
+    "spaces"
+  ],
+  "author": "bitquant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitquant/digitalocean-spaces/issues"
+  },
+  "homepage": "https://github.com/bitquant/digitalocean-spaces#readme",
+  "dependencies": {
+    "amazon-s3": "0.0.6"
+  }
+}
