@@ -1,6 +1,6 @@
 {
   "name": "digitalocean-spaces",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Read and write objects to DigitalOcean Spaces using fetch()",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/bitquant/digitalocean-spaces#readme",
   "dependencies": {
-    "amazon-s3": "0.0.6"
+    "amazon-s3": "1.0.1"
   }
 }
